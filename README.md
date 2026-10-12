@@ -5,7 +5,6 @@
 # Hi there, I'm Ariel (KidKyzo) 👋
 ### 🚀 Full-Stack Developer & Software Explorer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=kidkyzo&style=flat-square&color=b21f1f&label=PROFILE+VIEWS)](https://github.com/kidkyzo)
 [![Followers](https://img.shields.io/github/followers/kidkyzo?style=flat-square&color=3a1c71&labelColor=0b0f1a&logo=github)](https://github.com/kidkyzo?tab=followers)
 [![Status](https://img.shields.io/badge/Status-Building%20%26%20Exploring-b21f1f?style=flat-square&labelColor=0b0f1a)](https://github.com/kidkyzo)
 
