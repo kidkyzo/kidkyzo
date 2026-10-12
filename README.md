@@ -8,7 +8,7 @@
 
 ### 🛠️ Tech Stack & Arsenal
 
-<div align="center">
+<div align="left">
 
 #### 💻 Programming Languages
 
