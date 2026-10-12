@@ -2,9 +2,7 @@
 
 <img src="./banner.png" alt="Banner" width="100%"/>
 
-# Hi there, I'm kyzooo! 👋
-
----
+# Hi there, I'm kyzooo!
 
 ### 🧑‍💻 About Me
 
