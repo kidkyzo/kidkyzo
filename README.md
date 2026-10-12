@@ -2,16 +2,7 @@
 
 <img src="./banner.png" alt="Banner" width="100%"/>
 
-# Hi there, I'm kyzooo!  👋
-
-### 🚀 Full-Stack Developer & Software Explorer
-
-[![Followers](https://img.shields.io/github/followers/kidkyzo?style=flat-square&color=3a1c71&labelColor=0b0f1a&logo=github)](https://github.com/kidkyzo?tab=followers)
-[![Status](https://img.shields.io/badge/Status-Building%20%26%20Exploring-b21f1f?style=flat-square&labelColor=0b0f1a)](https://github.com/kidkyzo)
-
-> _"Lazy programmer · Professional learner"_
-
-</div>
+# Hi there, I'm kyzooo! 👋
 
 ---
 
