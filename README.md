@@ -2,7 +2,7 @@
 
 <img src="./banner.png" alt="Banner" width="100%"/>
 
-# Hi there, I'm Ariel (KidKyzo) 👋
+# Hi there, I'm kyzooo!  👋
 
 ### 🚀 Full-Stack Developer & Software Explorer
 
