@@ -60,17 +60,6 @@
 
 ---
 
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 🔔 [**dot-notifier**](https://github.com/kidkyzo/dot-notifier) | Lightweight system notification utility | `Rust` |
-| 🏋️ [**Smart-Fit**](https://github.com/kidkyzo/Smart-Fit) | Native Android mobile application for fitness tracking | `Kotlin` `Android` |
-| 🌐 [**Ashram-Gandhi-Puri**](https://github.com/kidkyzo/Ashram-Gandhi-Puri) | Interactive web portal ([Live Demo](https://ashramgandhipuri.vercel.app)) | `TypeScript` `Web` |
-| 🤖 [**FragAI**](https://github.com/kidkyzo/FragAI) | Artificial intelligence & machine learning exploration | `Python` `AI` |
-| 🎫 [**TicketTix**](https://github.com/kidkyzo/TicketTix) | Digital event ticketing management system | `TypeScript` |
-
----
 
 ### 📊 GitHub Activity & Stats
 
